@@ -25,6 +25,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/@picocss/pico.min.css",
               "src/styles.css"
             ],
             "scripts": []
